@@ -26,5 +26,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/galuzan12/react-use-on-screen.git"
-  }
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "on-screen",
+    "user-display"
+  ]
 }
