@@ -22,5 +22,9 @@
     "prop-types": "^15.7.2",
     "react": "^18.2.0",
     "styled-components": "^5.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/galuzan12/react-use-on-screen.git"
   }
 }
