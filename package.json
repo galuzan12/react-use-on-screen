@@ -1,10 +1,11 @@
 {
   "name": "react-use-on-screen",
-  "version": "1.0.3",
+  "version": "0.0.0-development",
   "description": "react hook that can say if the ref object is display on the user screen",
   "main": "./build/index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "semantic-release": "semantic-release"
   },
   "author": "Gal Ron Uzan",
   "license": "ISC",
@@ -16,7 +17,8 @@
     "css-loader": "^3.3.0",
     "style-loader": "^1.0.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.10",
+    "semantic-release": "^21.0.1"
   },
   "dependencies": {
     "prop-types": "^15.7.2",
@@ -26,6 +28,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/galuzan12/react-use-on-screen.git"
+  },
+  "peerDependencies": {
+    "react": ">=16"
   },
   "keywords": [
     "react",
